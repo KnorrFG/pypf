@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "pypf"
+author = "Felix G. Knorr"
+author-email = "knorr.felix@gmx.de"
+home-page = "https://github.com/KnorrFG/pypf"
+classifiers = ["License :: OSI Approved :: MIT License"]
+requires = ["yattag", "attrdict"]
+description-file="README.rst"

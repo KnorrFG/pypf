@@ -7,4 +7,5 @@ Pathfinder character sheet in python in combination with my `Datasheet`_
 library.
 
 There is no real documentation but you can checkout 
-`my blog post <http://www.python.org/>`_ about it, which basically covers everything.
+`my blog post <https://knorrfg.github.io/programming/2019/08/25/pypf.html>`_ 
+about it, which basically covers everything.
